@@ -1,0 +1,24 @@
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\bin\Debug\Геофизика фалй.exe.config
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\bin\Debug\Геофизика фалй.exe
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\bin\Debug\Геофизика фалй.pdb
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика фалй.csproj.AssemblyReference.cache
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика фалй.csproj.SuggestedBindingRedirects.cache
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.Form1.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.Properties.Resources.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика фалй.csproj.GenerateResource.cache
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика фалй.csproj.CoreCompileInputs.cache
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика фалй.exe
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика фалй.pdb
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.register.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.agrigade.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.Form2.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.appagrigade.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.Form3.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.operator.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.appoper.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.deleteopercs.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.projects.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.newprojects.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.testGraf.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.projeccts.resources
+C:\Users\volkt\Desktop\c#\Геофизика фалй\Геофизика фалй\obj\Debug\Геофизика_фалй.deleteproject.resources
